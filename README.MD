@@ -10,8 +10,8 @@ The MOFS-RFGA (Multi-Objective Feature Selection - ReliefF and Genetic Algorithm
 - **Multi-Objective Optimization**: Balances feature reduction and classification performance.
 
 ## Requirements
-- **Programming Language**: Python (or your chosen language)
-- **Dependencies**: Install the following libraries (for Python users):
+- **Programming Language**: Python
+- **Dependencies**: Install the following libraries:
   - `numpy`
   - `pandas`
   - `scikit-learn`
